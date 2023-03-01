@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+python-decouple
+pymysql
+pyjwt
+requests
+pydantic[email]
+python-multipart
+fastapi-utils
+resource
+urllib3
+pytest
+pytest-ordering
+newrelic
+google-cloud-storage
+python-json-logger

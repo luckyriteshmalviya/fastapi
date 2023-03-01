@@ -1,0 +1,41 @@
+{
+  "quants_and_reasoning": {
+    "quants_and_reasoning": [{ "quants": 10 }, { "reasoning": 10 }]
+  },
+  "technology": {
+    "backend_development": [
+      { "restful": 5 },
+      { "data_structures_and_algorithms": 5 },
+      { "design_pattern": 5 },
+      { "sql": 5 }
+    ],
+    "frontend_development": [
+      { "html5": 5 },
+      { "css": 5 },
+      { "javascript": 5 },
+      { "jquery": 5 }
+    ],
+    "manual_qa": [{ "manual_quality_analyst": 20 }]
+  },
+  "marketing": {
+    "search_engine_optimization": [{ "search_engine_optimization": 20 }],
+    "copy_writing": [{ "copy_writer": 20 }],
+    "content_writing": [{ "content_writer": 20 }]
+  },
+
+  "project_management": {
+    "project_manager": [
+      {
+        "project_management": 20
+      }
+    ]
+  },
+
+  "sales": {
+    "business_development_manager": [
+      {
+        "business_development_manager": 20
+      }
+    ]
+  }
+}
